@@ -1,2 +1,3 @@
 # new-proj
-just a repository
+Wild card simple code
+
